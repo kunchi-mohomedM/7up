@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 165px;
+}
+.logo img{
+    width: 100%;
+}
+.list{
+    display: flex;
+    color: white;
+    column-gap: 20px;
+    font-size: 20px;
+    font-family:"orienta",sans-serif;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color:#1dae1d;
+    height: 150px;
+}
+
+
+.whiteline{
+    background-color: white;
+    color: white;
+    height: 1px;
+}
+
+
+.icons{
+    height: 0px;
+    width: 470px;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    justify-content: center;
+    margin-top: 78px
+    
+
+}
+.icons img{
+    height: 50px;
+  width: 50px;
+ 
+}
+
+
+
+.firstpage{
+    background-color:#1dae1d ;
+
+}
+.firstpage img{
+    position: relative;
+    width: 100%;
+   
+}
+.content1{
+    color:white ;
+    position: absolute;
+   bottom: 100px;
+   font-family:"Concert One", sans-serif;
+   font-size: 50px;
+   margin-left: 165px;
+  top: 370px;;
+
+    
+
+}
+.button-content{
+    height: 44px;
+    width: 185px;
+    border-color: white;
+    border-style: solid;
+    color:white;
+    position:absolute;
+    top:500px;
+    margin-left: 165px;
+    font-size:10px;
+    font-family:"orienta",sans-serif ;
+    border-radius: 20px;
+    background-color: #1dae1d;
+    text-align: center;
+    
+
+      
+
+}
+
+
+
+.secondpage{
+    background-color: #1dae1d;
+
+}
+.secondpage img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.secondpagebox1{
+    
+    height:200px;
+    width: 600px;
+    background-color: green;
+    border-radius: 200px;
+    text-align: center;
+    position: absolute;
+    top: 1010px;
+    margin-left: 356px;
+    opacity: 0.9;
+
+}
+.secondpageh1 {
+    color: white;
+    position:100px;
+    text-align: center;
+    top: 200px;
+    font-family: "orienta",sans-serif;
+    top:100px;
+    position: absolute;
+  position: 100px;
+  margin-left: 230px;
+  top: 30px;
+}
+.secondpagep1 {
+    color: white;
+    text-align: center;
+    position:absolute;
+    position: 100px;
+    top: 80px;
+    margin-bottom: 93px;
+    font-family: "orienta",sans-serif;
+    margin-left: 100px;
+}
+.button-content2 {
+    height: 44px;
+    width: 185px;
+    border-color: white;
+    border-style: solid;
+    color:white;
+    position:absolute;
+    top:500px;
+    margin-left: 165px;
+    font-size:10px;
+    font-family:"orienta",sans-serif ;
+    border-radius: 20px;
+    background-color: #1dae1d;
+    text-align: center;
+}
+    
+
+
+
+.thirdpage{
+    background-color: #1dae1d;
+
+}
+.thirdpage img{
+    width: 100%;
+    height: 100%;
+}
+
+.thirdpagebox1{
+    
+    height:200px;
+    width: 600px;
+    background-color: green;
+    border-radius: 200px;
+    text-align: center;
+    position: absolute;
+    top: 1630px;
+    margin-left: 356px;
+    opacity: 0.9;
+
+}
+
+
+.thirdpageh1 {
+    color: white;
+    position:100px;
+    text-align: center;
+    top: 200px;
+    font-family: "orienta",sans-serif;
+    top:100px;
+    position: absolute;
+  position: 100px;
+  margin-left: 190px;
+  top: 30px;
+}
+.thirdpagep1 {
+    color: white;
+    text-align: center;
+    position:absolute;
+    position: 100px;
+    top: 80px;
+    margin-bottom: 93px;
+    font-family: "orienta",sans-serif;
+    margin-left: 100px;
+}
+.button-content3{
+    height: 44px;
+    width: 185px;
+    border-color: white;
+    border-style: solid;
+    color:white;
+    position:absolute;
+    top:500px;
+    margin-left: 165px;
+    font-size:10px;
+    font-family:"orienta",sans-serif ;
+    border-radius: 20px;
+    background-color: #1dae1d;
+    text-align: center;
+}
+    
+
+
+footer{
+    background:#000000cf;
+}
+
+.text{
+    height: 100px;
+  display: flex;
+  justify-content: center;
+  column-gap: 39px;
+  align-items: center;
+}
+
+.lastpara{
+    color: white;
+    font-family: "orienta",sans-serif;
+    font-size: 13px;
+   
+}
+.last-section{
+    color: white;
+    background: #000000cf;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
